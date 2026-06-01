@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Piyush Gupta 👋
 
-<!--
-**Piyush-Gupta04/Piyush-Gupta04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+## About Me
+- Aspiring AI/ML Engineer
+- Learning Machine Learning and Data Science
+- Interested in Computer Vision and NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- C++
+- Git & GitHub
+- NumPy
+- Pandas
+- Scikit-learn
+
+## Current Focus
+- Machine Learning
+- Deep Learning
+- Computer Vision
+
+## Connect With Me
+- LinkedIn: https://in.linkedin.com/in/piyush-gupta-2a9333334
