@@ -14,6 +14,7 @@
 - NumPy
 - Pandas
 - Scikit-learn
+- n8n
 
 ## Current Focus
 - Machine Learning
