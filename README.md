@@ -169,7 +169,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Piyush-Gupta04/Piyush-Gupta04/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Piyush-Gupta04/Piyush-Gupta04/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
