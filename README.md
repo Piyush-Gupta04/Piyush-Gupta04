@@ -62,19 +62,13 @@
 
 ### 💻 Development
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nextjs,django,fastapi,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,django,fastapi"/>
 
 <br><br>
 
 ### 🛠️ Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
-
-<br><br>
-
-### 🔌 Hardware & Embedded
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
 
 </div>
 
