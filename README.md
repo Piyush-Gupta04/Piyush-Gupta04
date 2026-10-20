@@ -147,35 +147,11 @@
 
 ---
 
-<h2 align="center">📈 Contribution Activity</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-Gupta04&bg_color=0D1117&color=00F7FF&line=7F00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-<br>
-
----
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Piyush-Gupta04/Piyush-Gupta04/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-<br>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Piyush-Gupta04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
 
 </div>
 
